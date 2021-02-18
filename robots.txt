@@ -1,0 +1,3 @@
+User-agent: Googlebot-Image
+Disallow: /
+# hm3k{my_t's_g0n3_c0ld_w0nd3r1n9_y}
